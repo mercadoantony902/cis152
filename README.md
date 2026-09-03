@@ -1,2 +1,2 @@
-# CIS152
+# cis152
 Beginning HTML/CSS class.
